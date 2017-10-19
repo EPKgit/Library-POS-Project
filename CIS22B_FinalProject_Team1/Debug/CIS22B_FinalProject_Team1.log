@@ -1,0 +1,18 @@
+﻿  ReportModule.cpp
+g:\22b final\cis22b_finalproject_team1\inventory.h(36): warning C4244: 'return' : conversion from 'double' to '__int64', possible loss of data
+  main.cpp
+g:\22b final\cis22b_finalproject_team1\inventory.h(36): warning C4244: 'return' : conversion from 'double' to '__int64', possible loss of data
+  InventoryDatabaseModule.cpp
+g:\22b final\cis22b_finalproject_team1\inventory.h(36): warning C4244: 'return' : conversion from 'double' to '__int64', possible loss of data
+  Inventory.cpp
+g:\22b final\cis22b_finalproject_team1\inventory.h(36): warning C4244: 'return' : conversion from 'double' to '__int64', possible loss of data
+g:\22b final\cis22b_finalproject_team1\inventory.cpp(109): warning C4244: '+=' : conversion from 'double' to '__int64', possible loss of data
+  Date.cpp
+  ControlModule.cpp
+g:\22b final\cis22b_finalproject_team1\inventory.h(36): warning C4244: 'return' : conversion from 'double' to '__int64', possible loss of data
+  CashierModule.cpp
+g:\22b final\cis22b_finalproject_team1\inventory.h(36): warning C4244: 'return' : conversion from 'double' to '__int64', possible loss of data
+  Book.cpp
+  Generating Code...
+  LINK : G:\22b Final\Debug\CIS22B_FinalProject_Team1.exe not found or not built by the last incremental link; performing full link
+  CIS22B_FinalProject_Team1.vcxproj -> G:\22b Final\Debug\CIS22B_FinalProject_Team1.exe
